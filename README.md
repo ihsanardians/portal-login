@@ -2,13 +2,15 @@
 
 Aplikasi web portal sederhana yang berfokus pada sistem autentikasi yang aman dan modern. Dibangun untuk memenuhi spesifikasi teknis pendaftaran pengguna, otentikasi sesi, dan proteksi rute menggunakan standar industri terkini.
 
+**🌍 Live Demo:** [https://portal-login-eight.vercel.app](https://portal-login-eight.vercel.app)
+
 ## 📸 Screenshot Tampilan Aplikasi
 
 ### Tampilan Desktop
 
 <p align="center">
   <img src="./assets/desktop-login.png" width="800" alt="Halaman Login Desktop">
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/desktop-dashboard.png" width="250" alt="Dashboard Desktop">
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/desktop-dashboard.png" width="800" alt="Dashboard Desktop">
 </p>
 
 ### Tampilan Mobile (Responsif)
